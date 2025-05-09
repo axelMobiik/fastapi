@@ -29,4 +29,3 @@ job:
         run: |
           pip install pytest
           pytest
-  job2:
